@@ -1,10 +1,10 @@
 {
   "owner": "icpctools",
   "repo": "icpctools",
-  "version": "2.7.1422",
+  "version": "2.7.1462",
   "hashes": {
-    "presentations": "sha256-gSxZ00nSH1GRr8KVxeR7NSsPyRpQKJhWpHaDGb9PZXI=",
-    "presentationAdmin": "sha256-EdZn+bR/c97ydYzn/UP4VmCUytGvDtzKirt/YQ2XyE4=",
-    "resolver": "sha256-O5UcmTkNb45uEC4dFNv+5Y9g7M0fKRGFj8FauPDm/3k="
+    "presentations": "sha256-K1VpfPCI7mS1ipiUcsJFtACoVCtQD/kF48J0/je1gb8=",
+    "presentationAdmin": "sha256-1N2Y9Hkm/+YOu8dBmI25UR7vRcEE3b4Nb5K0O4y5Y90=",
+    "resolver": "sha256-7bkF60xVpkIbm/BWiYsSK7p3lDJki1fgKZKzaQmrk80="
   }
 }
